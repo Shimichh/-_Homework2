@@ -66,21 +66,23 @@
 
 // Задача 4: Напишите программу, которая на вход принимает натуральное число N, а на выходе показывает его цифры через запятую.
 // Моя прога, которая не вышла и только до 100 работает
-Console.WriteLine("Введите число");
-int number = Convert.ToInt32(Console.ReadLine());
-int i = 10;
-int numbers = number / 10;
-int lastNumber = number % 10;
-while(i <= number)
-{
-    if (number >= 10)
-    {
-        Console.WriteLine(number / i);
-        Console.WriteLine(number % i);
-    }
+
+// Console.WriteLine("Введите число");
+// int number = Convert.ToInt32(Console.ReadLine());
+// int i = 10;
+// int numbers = number / 10;
+// int lastNumber = number % 10;
+// while(i <= number)
+// {
+//     if (number >= 10)
+//     {
+//         Console.WriteLine(number / i);
+//         Console.WriteLine(number % i);
+//     }
     
-    i *= 10; 
-}
+//     i *= 10; 
+// }
+
 // Как должно быть, но с выводом наоборот
 // Console.Write("Введите натуральное число N: ");
 // int N = Convert.ToInt32(Console.ReadLine());
