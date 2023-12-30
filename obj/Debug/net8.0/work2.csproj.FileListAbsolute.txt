@@ -1,0 +1,14 @@
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\work2.AssemblyInfoInputs.cache
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\work2.AssemblyInfo.cs
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\work2.csproj.CoreCompileInputs.cache
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\bin\Debug\net8.0\work2.exe
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\bin\Debug\net8.0\work2.deps.json
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\bin\Debug\net8.0\work2.runtimeconfig.json
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\bin\Debug\net8.0\work2.dll
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\bin\Debug\net8.0\work2.pdb
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\work2.dll
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\refint\work2.dll
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\work2.pdb
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\work2.genruntimeconfig.cache
+C:\Users\iliy2\OneDrive\Рабочий стол\C#_Homework\work2\obj\Debug\net8.0\ref\work2.dll
